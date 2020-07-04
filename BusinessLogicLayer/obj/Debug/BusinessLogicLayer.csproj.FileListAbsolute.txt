@@ -1,0 +1,11 @@
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache

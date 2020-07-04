@@ -1,0 +1,6 @@
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\yakup\OneDrive\Masaüstü\CSharpAPP\YazOkuluDersler\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
